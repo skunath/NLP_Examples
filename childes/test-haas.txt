@@ -1,0 +1,1061 @@
+0	@Loc:	Eng-USA/Cornell/haas1917.cha
+1	@Begin
+2	@Languages:	eng
+3	@Participants:	CHI Geraldine Target_Child, MOT Ann_Haas Mother, FAT Father
+4	@ID:	eng|cornell-haas|CHI|1;6.||normal||Target_Child||
+5	@ID:	eng|cornell-haas|MOT|||||Mother||
+6	@ID:	eng|cornell-haas|FAT|||||Father||
+7	@Transcriber:	DPH 2-3-88 and AMH 2-25-88
+8	@Comment:	This is the first of a dozen gerry tapes, designed to
+9		determine how lexical pitch changes across the first months
+10		of a child's speech. The tape was prepared for the child's
+11		grandparents, so they could keep up with her development.
+12		There is another session within two weeks, MOM19181.
+13	@Location:	Living room
+14	@Tape Location:	010-051
+15	*MOT:	Gerry, how old are you ?
+16	%mor:	n:prop|Gerry adv:wh|how adj|old v:cop|be&PRES pro|you ?
+17	%gra:	1|4|VOC 2|4|JCT 3|4|PRED 4|0|ROOT 5|4|SUBJ 6|4|PUNCT
+18	*CHI:	one !
+19	%mor:	det:num|one !
+20	%gra:	1|0|ROOT 2|1|PUNCT
+21	*MOT:	yes .
+22	%mor:	co|yes .
+23	%gra:	1|0|ROOT 2|1|PUNCT
+24	*MOT:	what's your name ?
+25	%mor:	pro:wh|what~v:cop|be&3S pro:poss:det|your n|name ?
+26	%gra:	1|2|PRED 2|0|ROOT 3|4|MOD 4|2|SUBJ 5|2|PUNCT
+27	*CHI:	Gerry .
+28	%mor:	n:prop|Gerry .
+29	%gra:	1|0|ROOT 2|1|PUNCT
+30	*MOT:	wow, you're a big girl .
+31	%mor:	co|wow pro|you~v:cop|be&PRES det|a adj|big n|girl .
+32	%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+33	*MOT:	you're a big girl, huh .
+34	%mor:	pro|you~v:cop|be&PRES det|a adj|big n|girl co|huh .
+35	%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|COM 7|2|PUNCT
+36	*MOT:	was so big .
+37	%mor:	v:cop|be&PAST&13S adv:int|so adj|big .
+38	%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+39	*MOT:	so big .
+40	%mor:	adv:int|so adj|big .
+41	%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+42	*MOT:	what's this ?
+43	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+44	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+45	*CHI:	hat .
+46	%mor:	n|hat .
+47	%gra:	1|0|ROOT 2|1|PUNCT
+48	*MOT:	no .
+49	%mor:	co|no .
+50	%gra:	1|0|ROOT 2|1|PUNCT
+51	*MOT:	what's this ?
+52	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+53	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+54	*CHI:	hat .
+55	%mor:	n|hat .
+56	%gra:	1|0|ROOT 2|1|PUNCT
+57	*MOT:	hair .
+58	%mor:	n|hair .
+59	%gra:	1|0|ROOT 2|1|PUNCT
+60	*MOT:	what's this ?
+61	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+62	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+63	*CHI:	nose .
+64	%mor:	n|nose .
+65	%gra:	1|0|ROOT 2|1|PUNCT
+66	*MOT:	nose .
+67	%mor:	n|nose .
+68	%gra:	1|0|ROOT 2|1|PUNCT
+69	*MOT:	yeah .
+70	%mor:	co|yeah .
+71	%gra:	1|0|ROOT 2|1|PUNCT
+72	*MOT:	what's this ?
+73	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+74	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+75	*CHI:	tongue .
+76	%mor:	n|tongue .
+77	%gra:	1|0|ROOT 2|1|PUNCT
+78	*MOT:	tongue .
+79	%mor:	n|tongue .
+80	%gra:	1|0|ROOT 2|1|PUNCT
+81	*MOT:	Gerry, what are these ?
+82	%mor:	n:prop|Gerry pro:wh|what aux|be&PRES det|these ?
+83	%gra:	1|4|VOC 2|4|OBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+84	*CHI:	&um .
+85	*MOT:	what are these ?
+86	%mor:	pro:wh|what v:cop|be&PRES pro:dem|these ?
+87	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+88	*MOT:	what are those ?
+89	%mor:	pro:wh|what v:cop|be&PRES pro:dem|those ?
+90	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+91	*CHI:	hands .
+92	%mor:	n|hand-PL .
+93	%gra:	1|0|ROOT 2|1|PUNCT
+94	*MOT:	hands, yeah .
+95	%mor:	n|hand-PL co|yeah .
+96	%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+97	*MOT:	you're a good girl .
+98	%mor:	pro|you~v:cop|be&PRES det|a adj|good n|girl .
+99	%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+100	*CHI:	all gone .
+101	%mor:	qn|all part|go&PERF .
+102	%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+103	*MOT:	all gone .
+104	%mor:	qn|all part|go&PERF .
+105	%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+106	%com:	tapes stopped, Resumes at 020
+107	*MOT:	here, Gerry, do you want to pet ?
+108	%mor:	adv:loc|here n:prop|Gerry aux|do pro|you v|want prep|to n|pet ?
+109	%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+110	*MOT:	can you say pet ?
+111	%mor:	aux|can pro|you v|say n|pet ?
+112	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+113	*CHI:	pet .
+114	%mor:	n|pet .
+115	%gra:	1|0|ROOT 2|1|PUNCT
+116	*MOT:	pet, yeah .
+117	%mor:	n|pet co|yeah .
+118	%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+119	*MOT:	are you a good girl ?
+120	%mor:	aux|be&PRES pro|you det|a adj|good n|girl ?
+121	%gra:	1|5|AUX 2|5|SUBJ 3|5|DET 4|5|MOD 5|0|ROOT 6|5|PUNCT
+122	*CHI:	good girl .
+123	%mor:	adj|good n|girl .
+124	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+125	*MOT:	good girl .
+126	%mor:	adj|good n|girl .
+127	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+128	*MOT:	what are you wearing ?
+129	%mor:	pro:wh|what aux|be&PRES pro|you part|wear-PROG ?
+130	%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+131	*CHI:	a shirt .
+132	%mor:	det|a n|shirt .
+133	%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+134	*MOT:	what else are you wearing ?
+135	%mor:	pro:wh|what post|else aux|be&PRES pro|you part|wear-PROG ?
+136	%gra:	1|5|OBJ 2|1|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+137	*CHI:	xxx .
+138	%mor:	unk|xxx .
+139	%gra:	1|0|ROOT 2|1|PUNCT
+140	*MOT:	what's this ?
+141	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+142	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+143	*CHI:	didey .
+144	%mor:	n|diapers .
+145	%gra:	1|0|ROOT 2|1|PUNCT
+146	*MOT:	what are these ?
+147	%mor:	pro:wh|what v:cop|be&PRES pro:dem|these ?
+148	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+149	*CHI:	socks .
+150	%mor:	n|sock-PL .
+151	%gra:	1|0|ROOT 2|1|PUNCT
+152	*MOT:	socks, yeah .
+153	%mor:	n|sock-PL co|yeah .
+154	%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+155	*MOT:	what's mommy wearing ?
+156	%mor:	pro:wh|what~aux|be&3S n|mommy part|wear-PROG ?
+157	%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+158	*MOT:	what are these ?
+159	%mor:	pro:wh|what v:cop|be&PRES pro:dem|these ?
+160	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+161	*CHI:	pants .
+162	%mor:	n:pt|pants .
+163	%gra:	1|0|ROOT 2|1|PUNCT
+164	*MOT:	pants .
+165	%mor:	n:pt|pants .
+166	%gra:	1|0|ROOT 2|1|PUNCT
+167	*MOT:	what's this in your hair ?
+168	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this prep|in pro:poss:det|your n|hair ?
+169	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+170	*CHI:	hair .
+171	%mor:	n|hair .
+172	%gra:	1|0|ROOT 2|1|PUNCT
+173	*MOT:	what is this ?
+174	%mor:	pro:wh|what v:cop|be&3S pro:dem|this ?
+175	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+176	*CHI:	cookie .
+177	%mor:	n|cookie .
+178	%gra:	1|0|ROOT 2|1|PUNCT
+179	*MOT:	is that a barrette ?
+180	%mor:	v:cop|be&3S pro:dem|that det|a n|barrette ?
+181	%gra:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+182	*CHI:	cookie .
+183	%mor:	n|cookie .
+184	%gra:	1|0|ROOT 2|1|PUNCT
+185	*MOT:	you want a cookie ?
+186	%mor:	pro|you v|want det|a n|cookie ?
+187	%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+188	*CHI:	yeah .
+189	%mor:	co|yeah .
+190	%gra:	1|0|ROOT 2|1|PUNCT
+191	*MOT:	how do you ask ?
+192	%mor:	adv:wh|how aux|do pro|you v|ask ?
+193	%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+194	*FAT:	Gerry .
+195	%mor:	n:prop|Gerry .
+196	%gra:	1|0|ROOT 2|1|PUNCT
+197	*MOT:	what's that ?
+198	%mor:	pro:wh|what~v:cop|be&3S pro:dem|that ?
+199	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+200	*CHI:	teddy .
+201	%mor:	n|teddy .
+202	%gra:	1|0|ROOT 2|1|PUNCT
+203	*MOT:	what is that ?
+204	%mor:	pro:wh|what v:cop|be&3S pro:dem|that ?
+205	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+206	*FAT:	what is that, Gerry ?
+207	%mor:	pro:wh|what v:cop|be&3S pro:dem|that n:prop|Gerry ?
+208	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|VOC 5|2|PUNCT
+209	*CHI:	teddy !
+210	%mor:	n|teddy !
+211	%gra:	1|0|ROOT 2|1|PUNCT
+212	*FAT:	teddy .
+213	%mor:	n|teddy .
+214	%gra:	1|0|ROOT 2|1|PUNCT
+215	*MOT:	teddy, yeah .
+216	%mor:	n|teddy co|yeah .
+217	%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+218	*MOT:	no, no, don't play with that .
+219	%mor:	co|no co|no aux|do~neg|not n|play prep|with pro:dem|that .
+220	%gra:	1|5|COM 2|5|COM 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+221	*MOT:	that's daddy's .
+222	%mor:	pro:dem|that~v:cop|be&3S n|daddy~poss|s .
+223	%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+224	*MOT:	come here .
+225	%mor:	v|come adv:loc|here .
+226	%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+227	*MOT:	let's go get your book .
+228	%mor:	v|let~pro|us v|go v|get pro:poss:det|your n|book .
+229	%gra:	1|0|ROOT 2|1|OBJ 3|4|SRL 4|1|COMP 5|6|MOD 6|4|OBJ 7|1|PUNCT
+230	*MOT:	what's this ?
+231	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+232	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+233	*CHI:	boy .
+234	%mor:	n|boy .
+235	%gra:	1|0|ROOT 2|1|PUNCT
+236	*MOT:	boy .
+237	%mor:	n|boy .
+238	%gra:	1|0|ROOT 2|1|PUNCT
+239	*MOT:	what's this on the boy's head ?
+240	%mor:	pro:wh|what~aux|be&3S det|this prep|on det|the n|boy~poss|s n|head ?
+241	%gra:	1|2|PRED 2|0|ROOT 3|4|DET 4|2|PRED 5|6|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+242		9|2|PUNCT
+243	*CHI:	hat .
+244	%mor:	n|hat .
+245	%gra:	1|0|ROOT 2|1|PUNCT
+246	*MOT:	good .
+247	%mor:	adj|good .
+248	%gra:	1|0|ROOT 2|1|PUNCT
+249	*MOT:	what's this here ?
+250	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this adv:loc|here ?
+251	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|JCT 5|2|PUNCT
+252	*CHI:	hat .
+253	%mor:	n|hat .
+254	%gra:	1|0|ROOT 2|1|PUNCT
+255	*MOT:	what is that ?
+256	%mor:	pro:wh|what v:cop|be&3S pro:dem|that ?
+257	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+258	*MOT:	here, what's this on mommy's shirt ?
+259	%mor:	adv:loc|here pro:wh|what~v:cop|be&3S pro:dem|this prep|on n|mommy~poss|s
+260		n|shirt ?
+261	%gra:	1|3|COM 2|3|PRED 3|0|ROOT 4|3|SUBJ 5|3|PRED 6|8|MOD 7|8|MOD 8|5|POBJ
+262		9|3|PUNCT
+263	*MOT:	what's this on mommy's shirt ?
+264	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this prep|on n|mommy~poss|s n|shirt ?
+265	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|JCT 5|7|MOD 6|7|MOD 7|4|POBJ 8|2|PUNCT
+266	*CHI:	xxx .
+267	%mor:	unk|xxx .
+268	%gra:	1|0|ROOT 2|1|PUNCT
+269	*MOT:	what's this ?
+270	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+271	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+272	*CHI:	xxx .
+273	%mor:	unk|xxx .
+274	%gra:	1|0|ROOT 2|1|PUNCT
+275	*MOT:	is it a cat ?
+276	%mor:	v:cop|be&3S pro|it det|a n|cat ?
+277	%gra:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+278	*CHI:	cat .
+279	%mor:	n|cat .
+280	%gra:	1|0|ROOT 2|1|PUNCT
+281	*MOT:	what's the cat say ?
+282	%mor:	pro:wh|what~v:cop|be&3S det|the n|cat co|say ?
+283	%gra:	1|2|PRED 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|COM 6|2|PUNCT
+284	*CHI:	meow .
+285	%mor:	v|meow .
+286	%gra:	1|0|ROOT 2|1|PUNCT
+287	*MOT:	meow .
+288	%mor:	v|meow .
+289	%gra:	1|0|ROOT 2|1|PUNCT
+290	*MOT:	what does the doggie say ?
+291	%mor:	pro:wh|what aux|do&3S det|the n|dog-DIM co|say ?
+292	%gra:	1|4|OBJ 2|4|AUX 3|4|DET 4|0|ROOT 5|4|COM 6|4|PUNCT
+293	*CHI:	woof .
+294	%mor:	v|woof .
+295	%gra:	1|0|ROOT 2|1|PUNCT
+296	*MOT:	what's the cow say ?
+297	%mor:	pro:wh|what~v:cop|be&3S det|the n|cow co|say ?
+298	%gra:	1|2|PRED 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|COM 6|2|PUNCT
+299	*CHI:	moo .
+300	%mor:	v|moo .
+301	%gra:	1|0|ROOT 2|1|PUNCT
+302	*MOT:	do you remember what the horsie says ?
+303	%mor:	aux|do pro|you v|remember pro:wh|what det|the n|horse-DIM v|say-3S ?
+304	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|OBJ 5|6|DET 6|7|SUBJ 7|3|COMP 8|3|PUNCT
+305	*CHI:	boo ?
+306	%mor:	n|boo ?
+307	%gra:	1|0|ROOT 2|1|PUNCT
+308	*MOT:	horsie ?
+309	%mor:	n|horse-DIM ?
+310	%gra:	1|0|ROOT 2|1|PUNCT
+311	*MOT:	horsie says neigh .
+312	%mor:	n|horse-DIM v|say-3S v|neigh .
+313	%gra:	1|2|SUBJ 2|0|ROOT 3|2|XCOMP 4|2|PUNCT
+314	*MOT:	can Gerry say neigh ?
+315	%mor:	aux|can n:prop|Gerry v|say v|neigh ?
+316	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|3|PUNCT
+317	*CHI:	neigh !
+318	%mor:	v|neigh !
+319	%gra:	1|0|ROOT 2|1|PUNCT
+320	*MOT:	what's the duck say ?
+321	%mor:	pro:wh|what~v:cop|be&3S det|the n|duck co|say ?
+322	%gra:	1|2|PRED 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|COM 6|2|PUNCT
+323	*CHI:	quack quack .
+324	%mor:	n|quack n|quack .
+325	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+326	*MOT:	quack quack .
+327	%mor:	n|quack n|quack .
+328	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+329	*MOT:	good girl .
+330	%mor:	adj|good n|girl .
+331	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+332	*MOT:	good girl, yeah .
+333	%mor:	adj|good n|girl co|yeah .
+334	%gra:	1|2|MOD 2|0|ROOT 3|2|COM 4|2|PUNCT
+335	*MOT:	let's see .
+336	%mor:	v|let~pro|us v|see .
+337	%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+338	*MOT:	what else can we look at ?
+339	%mor:	pro:wh|what post|else aux|can pro|we v|look adv:loc|at ?
+340	%gra:	1|5|OBJ 2|1|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+341	*MOT:	what's this ?
+342	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+343	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+344	*CHI:	a teddy .
+345	%mor:	det|a n|teddy .
+346	%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+347	*MOT:	a teddy, yeah .
+348	%mor:	det|a n|teddy co|yeah .
+349	%gra:	1|2|DET 2|0|ROOT 3|2|COM 4|2|PUNCT
+350	*MOT:	do you know what this is here ?
+351	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S adv:loc|here
+352		?
+353	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|6|PRED 8|3|PUNCT
+354	*MOT:	what's this ?
+355	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+356	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+357	*CHI:	tree .
+358	%mor:	n|tree .
+359	%gra:	1|0|ROOT 2|1|PUNCT
+360	*MOT:	a tree .
+361	%mor:	det|a n|tree .
+362	%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+363	*MOT:	do you know what this is ?
+364	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+365	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+366	*CHI:	owl .
+367	%mor:	n|owl .
+368	%gra:	1|0|ROOT 2|1|PUNCT
+369	*MOT:	what's this ?
+370	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+371	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+372	*CHI:	owl is that .
+373	%mor:	n|owl v:cop|be&3S pro:dem|that .
+374	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+375	*MOT:	is that grass ?
+376	%mor:	v:cop|be&3S det|that n|grass ?
+377	%gra:	1|0|ROOT 2|3|DET 3|1|SUBJ 4|1|PUNCT
+378	*CHI:	grass .
+379	%mor:	n|grass .
+380	%gra:	1|0|ROOT 2|1|PUNCT
+381	*MOT:	do you know where your other book is ?
+382	%mor:	aux|do pro|you v|know adv:wh|where pro:poss:det|your qn|other n|book v:cop|be&3S
+383		?
+384	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|8|PRED 5|7|MOD 6|7|MOD 7|8|SUBJ 8|3|COMP
+385		9|3|PUNCT
+386	*MOT:	where your colors book, the one with the monkey ?
+387	%mor:	adv:wh|where pro:poss:det|your n|color-PL n|book det|the pro:indef|one
+388		prep|with det|the n|monkey ?
+389	%gra:	1|4|JCT 2|4|MOD 3|4|MOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+390		9|7|POBJ 10|4|PUNCT
+391	*MOT:	do you know where that one is ?
+392	%mor:	aux|do pro|you v|know adv:wh|where det|that pro:indef|one v:cop|be&3S
+393		?
+394	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|PRED 5|6|DET 6|7|SUBJ 7|3|COMP 8|3|PUNCT
+395	*CHI:	no .
+396	%mor:	co|no .
+397	%gra:	1|0|ROOT 2|1|PUNCT
+398	*MOT:	let's look at your other book, okay ?
+399	%mor:	v|let~pro|us v|look adv:loc|at pro:poss:det|your qn|other n|book co|okay
+400		?
+401	%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|7|MOD 6|7|MOD 7|4|POBJ 8|3|COM
+402		9|1|PUNCT
+403	*MOT:	here it is .
+404	%mor:	adv:loc|here pro|it v:cop|be&3S .
+405	%gra:	1|3|PRED 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+406	*CHI:	what is it ?
+407	%mor:	pro:wh|what v:cop|be&3S pro|it ?
+408	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+409	@Tape Location:	061-100
+410	*MOT:	where ?
+411	%mor:	adv:wh|where ?
+412	%gra:	1|0|ROOT 2|1|PUNCT
+413	*MOT:	good girl !
+414	%mor:	adj|good n|girl !
+415	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+416	*MOT:	do you know what this is ?
+417	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+418	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+419	*CHI:	boon .
+420	%mor:	adj|boon .
+421	%gra:	1|0|ROOT 2|1|PUNCT
+422	*MOT:	balloon .
+423	%mor:	n|balloon .
+424	%gra:	1|0|ROOT 2|1|PUNCT
+425	*CHI:	yeah .
+426	%mor:	co|yeah .
+427	%gra:	1|0|ROOT 2|1|PUNCT
+428	*MOT:	look here, Gerry .
+429	%mor:	v|look adv:loc|here n:prop|Gerry .
+430	%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+431	*MOT:	what's this ?
+432	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+433	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+434	*CHI:	a belt .
+435	%mor:	det|a n|belt .
+436	%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+437	*MOT:	belt .
+438	%mor:	n|belt .
+439	%gra:	1|0|ROOT 2|1|PUNCT
+440	*CHI:	boy .
+441	%mor:	n|boy .
+442	%gra:	1|0|ROOT 2|1|PUNCT
+443	*MOT:	boy .
+444	%mor:	n|boy .
+445	%gra:	1|0|ROOT 2|1|PUNCT
+446	*MOT:	what are these ?
+447	%mor:	pro:wh|what v:cop|be&PRES pro:dem|these ?
+448	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+449	*CHI:	doggie .
+450	%mor:	n|dog-DIM .
+451	%gra:	1|0|ROOT 2|1|PUNCT
+452	*MOT:	what's doggie say ?
+453	%mor:	pro:wh|what~v:cop|be&3S n|dog-DIM co|say ?
+454	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|COM 5|2|PUNCT
+455	*CHI:	woof .
+456	%mor:	v|woof .
+457	%gra:	1|0|ROOT 2|1|PUNCT
+458	*MOT:	do you know what this is ?
+459	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+460	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+461	*CHI:	xxx .
+462	%mor:	unk|xxx .
+463	%gra:	1|0|ROOT 2|1|PUNCT
+464	*MOT:	what's this ?
+465	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+466	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+467	*CHI:	cow .
+468	%mor:	n|cow .
+469	%gra:	1|0|ROOT 2|1|PUNCT
+470	*MOT:	what is this .
+471	%mor:	pro:wh|what v:cop|be&3S pro:dem|this .
+472	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+473	*MOT:	you know what that is .
+474	%mor:	pro|you v|know pro:wh|what pro:dem|that v:cop|be&3S .
+475	%gra:	1|2|SUBJ 2|0|ROOT 3|5|PRED 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+476	*CHI:	moo .
+477	%mor:	v|moo .
+478	%gra:	1|0|ROOT 2|1|PUNCT
+479	*MOT:	it's a box .
+480	%mor:	pro|it~v:cop|be&3S det|a n|box .
+481	%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+482	*CHI:	the cow .
+483	%mor:	det|the n|cow .
+484	%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+485	*MOT:	where's a cow ?
+486	%mor:	adv:wh|where~v:cop|be&3S det|a n|cow ?
+487	%gra:	1|2|PRED 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+488	*MOT:	there is no cow on tv .
+489	%mor:	adv:loc|there v:cop|be&3S qn|no n|cow prep|on n|tv .
+490	%gra:	1|2|ESUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|JCT 6|5|POBJ 7|2|PUNCT
+491	*MOT:	what's this here ?
+492	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this adv:loc|here ?
+493	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|JCT 5|2|PUNCT
+494	*CHI:	monkey .
+495	%mor:	n|monkey .
+496	%gra:	1|0|ROOT 2|1|PUNCT
+497	*MOT:	no, this is monkey .
+498	%mor:	co|no pro:dem|this aux|be&3S n|monkey .
+499	%gra:	1|4|COM 2|4|SUBJ 3|4|MOD 4|0|ROOT 5|4|PUNCT
+500	*MOT:	what is this ?
+501	%mor:	pro:wh|what v:cop|be&3S pro:dem|this ?
+502	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+503	*CHI:	teddy .
+504	%mor:	n|teddy .
+505	%gra:	1|0|ROOT 2|1|PUNCT
+506	*MOT:	teddy !
+507	%mor:	n|teddy !
+508	%gra:	1|0|ROOT 2|1|PUNCT
+509	*MOT:	do you know what this is ?
+510	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+511	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+512	*CHI:	sun .
+513	%mor:	n|sun .
+514	%gra:	1|0|ROOT 2|1|PUNCT
+515	*MOT:	a sun, yeah .
+516	%mor:	det|a n|sun co|yeah .
+517	%gra:	1|2|DET 2|0|ROOT 3|2|COM 4|2|PUNCT
+518	*MOT:	do you know what this is ?
+519	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+520	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+521	*CHI:	doggie .
+522	%mor:	n|dog-DIM .
+523	%gra:	1|0|ROOT 2|1|PUNCT
+524	*MOT:	no, that's a fox .
+525	%mor:	co|no pro:dem|that~v:cop|be&3S det|a n|fox .
+526	%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+527	*CHI:	a doggie .
+528	%mor:	det|a n|dog-DIM .
+529	%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+530	*MOT:	that's a doggie, yeah .
+531	%mor:	pro:dem|that~v:cop|be&3S det|a n|dog-DIM co|yeah .
+532	%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|COM 6|2|PUNCT
+533	*MOT:	what's that ?
+534	%mor:	pro:wh|what~v:cop|be&3S pro:dem|that ?
+535	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+536	*MOT:	fox .
+537	%mor:	n|fox .
+538	%gra:	1|0|ROOT 2|1|PUNCT
+539	*CHI:	doggie .
+540	%mor:	n|dog-DIM .
+541	%gra:	1|0|ROOT 2|1|PUNCT
+542	*MOT:	fox .
+543	%mor:	n|fox .
+544	%gra:	1|0|ROOT 2|1|PUNCT
+545	*CHI:	doggie .
+546	%mor:	n|dog-DIM .
+547	%gra:	1|0|ROOT 2|1|PUNCT
+548	*MOT:	yes, those are doggies .
+549	%mor:	co|yes pro:dem|those v:cop|be&PRES n|dog-DIM-PL .
+550	%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+551	*MOT:	what's this ?
+552	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+553	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+554	*CHI:	boy .
+555	%mor:	n|boy .
+556	%gra:	1|0|ROOT 2|1|PUNCT
+557	*MOT:	that's a boy, yeah .
+558	%mor:	pro:dem|that~v:cop|be&3S det|a n|boy co|yeah .
+559	%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|COM 6|2|PUNCT
+560	*MOT:	what's this here ?
+561	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this adv:loc|here ?
+562	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|JCT 5|2|PUNCT
+563	*CHI:	girl .
+564	%mor:	n|girl .
+565	%gra:	1|0|ROOT 2|1|PUNCT
+566	*MOT:	yeah, there's a girl .
+567	%mor:	co|yeah adv:loc|there~v:cop|be&3S det|a n|girl .
+568	%gra:	1|3|COM 2|3|PRED 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+569	*MOT:	good .
+570	%mor:	adj|good .
+571	%gra:	1|0|ROOT 2|1|PUNCT
+572	*CHI:	boy .
+573	%mor:	n|boy .
+574	%gra:	1|0|ROOT 2|1|PUNCT
+575	*MOT:	boy .
+576	%mor:	n|boy .
+577	%gra:	1|0|ROOT 2|1|PUNCT
+578	*MOT:	do you know what this is ?
+579	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+580	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+581	*CHI:	&mou, &mou .
+582	*MOT:	mouse .
+583	%mor:	n|mouse .
+584	%gra:	1|0|ROOT 2|1|PUNCT
+585	*CHI:	mouse .
+586	%mor:	n|mouse .
+587	%gra:	1|0|ROOT 2|1|PUNCT
+588	*MOT:	mouse .
+589	%mor:	n|mouse .
+590	%gra:	1|0|ROOT 2|1|PUNCT
+591	*MOT:	do you know what this is ?
+592	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+593	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+594	*CHI:	my mommy .
+595	%mor:	pro:poss:det|my n|mommy .
+596	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+597	*MOT:	Gerry, what's this ?
+598	%mor:	n:prop|Gerry pro:wh|what~v:cop|be&3S pro:dem|this ?
+599	%gra:	1|3|VOC 2|3|PRED 3|0|ROOT 4|3|SUBJ 5|3|PUNCT
+600	*MOT:	what's this ?
+601	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+602	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+603	*MOT:	what's this here ?
+604	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this adv:loc|here ?
+605	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|JCT 5|2|PUNCT
+606	%act:	Gerry laughs
+607	*MOT:	are you laughing at that hamster ?
+608	%mor:	aux|be&PRES pro|you part|laugh-PROG prep|at det|that n|hamster ?
+609	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+610	*MOT:	that's a pretty hamster, huh ?
+611	%mor:	pro:dem|that~v:cop|be&3S det|a adj|pretty n|hamster co|huh ?
+612	%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|COM 7|2|PUNCT
+613	*MOT:	Gerry, can you say hamster ?
+614	%mor:	n:prop|Gerry aux|can pro|you v|say n|hamster ?
+615	%gra:	1|4|VOC 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+616	*CHI:	ham .
+617	%mor:	n|ham .
+618	%gra:	1|0|ROOT 2|1|PUNCT
+619	*MOT:	bring it here .
+620	%mor:	v|bring pro|it adv:loc|here .
+621	%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+622	*MOT:	can you say hamster ?
+623	%mor:	aux|can pro|you v|say n|hamster ?
+624	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+625	*MOT:	don't lean on there .
+626	%mor:	aux|do~neg|not v|lean adv:loc|on adv:loc|there .
+627	%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+628	*MOT:	don't hurt it .
+629	%mor:	aux|do~neg|not v|hurt&ZERO pro|it .
+630	%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+631	*MOT:	Gerry, come here .
+632	%mor:	n:prop|Gerry v|come adv:loc|here .
+633	%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+634	*MOT:	can you say hamster ?
+635	%mor:	aux|can pro|you v|say n|hamster ?
+636	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+637	*CHI:	I sit down .
+638	%mor:	pro|I v|sit adv:loc|down .
+639	%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+640	*MOT:	you sit down, okay .
+641	%mor:	pro|you v|sit adv:loc|down co|okay .
+642	%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|2|PUNCT
+643	*MOT:	oh, be careful .
+644	%mor:	co|oh v:cop|be adj|careful .
+645	%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|2|PUNCT
+646	*MOT:	you almost knocked his cage over .
+647	%mor:	pro|you adv|almost part|knock-PERF pro:poss:det|his n|cage adv:loc|over
+648		.
+649	%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|3|PUNCT
+650	*CHI:	dirt .
+651	%mor:	n|dirt .
+652	%gra:	1|0|ROOT 2|1|PUNCT
+653	*MOT:	no dirt, no no, its okay .
+654	%mor:	qn|no n|dirt co|no co|no pro:poss:det|its adj|okay .
+655	%gra:	1|2|QUANT 2|0|ROOT 3|6|COM 4|6|COM 5|6|MOD 6|2|MOD 7|2|PUNCT
+656	*MOT:	let it go .
+657	%mor:	v|let&ZERO pro|it v|go .
+658	%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+659	*MOT:	honey, leave it go .
+660	%mor:	n|honey n|leave pro|it v|go .
+661	%gra:	1|2|MOD 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+662	*MOT:	that's okay .
+663	%mor:	pro:dem|that~v:cop|be&3S adj|okay .
+664	%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+665	*CHI:	sit down .
+666	%mor:	v|sit adv:loc|down .
+667	%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+668	*MOT:	you sit down .
+669	%mor:	pro|you v|sit adv:loc|down .
+670	%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+671	*MOT:	are you hungry, Gerry ?
+672	%mor:	v:cop|be&PRES pro|you adj|hungry n:prop|Gerry ?
+673	%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|1|VOC 5|1|PUNCT
+674	*CHI:	yeah .
+675	%mor:	co|yeah .
+676	%gra:	1|0|ROOT 2|1|PUNCT
+677	*MOT:	are you hungry ?
+678	%mor:	v:cop|be&PRES pro|you adj|hungry ?
+679	%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|1|PUNCT
+680	*CHI:	hungry .
+681	%mor:	adj|hungry .
+682	%gra:	1|0|ROOT 2|1|PUNCT
+683	*MOT:	would you like a hot dog ?
+684	%mor:	aux|will&COND pro|you v|like det|a adj|hot n|dog ?
+685	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+686	*CHI:	ow .
+687	%mor:	co|ow .
+688	%gra:	1|0|ROOT 2|1|PUNCT
+689	*MOT:	oh, you got your hand wet, huh ?
+690	%mor:	co|oh pro|you v|get&PAST pro:poss:det|your n|hand v|wet&ZERO co|huh ?
+691	%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|6|SUBJ 6|3|COMP 7|6|COM 8|3|PUNCT
+692	*MOT:	oh+my+goodness .
+693	%mor:	int|+int|oh+int|my+int|goodness .
+694	%gra:	1|0|ROOT 2|1|PUNCT
+695	*MOT:	would you like a hot dog ?
+696	%mor:	aux|will&COND pro|you v|like det|a adj|hot n|dog ?
+697	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+698	*MOT:	Gerry ?
+699	%mor:	n:prop|Gerry ?
+700	%gra:	1|0|ROOT 2|1|PUNCT
+701	*MOT:	Gerry, would you like a hot dog ?
+702	%mor:	n:prop|Gerry aux|will&COND pro|you v|like det|a adj|hot n|dog ?
+703	%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+704	*MOT:	are you petting the hamster ?
+705	%mor:	aux|be&PRES pro|you part|pet-PROG det|the n|hamster ?
+706	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+707	*MOT:	can you say pet ?
+708	%mor:	aux|can pro|you v|say n|pet ?
+709	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+710	*CHI:	pet .
+711	%mor:	n|pet .
+712	%gra:	1|0|ROOT 2|1|PUNCT
+713	*MOT:	pet .
+714	%mor:	n|pet .
+715	%gra:	1|0|ROOT 2|1|PUNCT
+716	*MOT:	good girl .
+717	%mor:	adj|good n|girl .
+718	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+719	*MOT:	are you being careful ?
+720	%mor:	aux|be&PRES pro|you part|be-PROG adj|careful ?
+721	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+722	*CHI:	careful .
+723	%mor:	adj|careful .
+724	%gra:	1|0|ROOT 2|1|PUNCT
+725	*MOT:	what's your name ?
+726	%mor:	pro:wh|what~v:cop|be&3S pro:poss:det|your n|name ?
+727	%gra:	1|2|PRED 2|0|ROOT 3|4|MOD 4|2|SUBJ 5|2|PUNCT
+728	*CHI:	Gerry .
+729	%mor:	n:prop|Gerry .
+730	%gra:	1|0|ROOT 2|1|PUNCT
+731	@Tape Location:	109-201
+732	*MOT:	is this a hamster ?
+733	%mor:	v:cop|be&3S pro:dem|this det|a n|hamster ?
+734	%gra:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+735	*MOT:	can you say hamster ?
+736	%mor:	aux|can pro|you v|say n|hamster ?
+737	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+738	*CHI:	yucky .
+739	%mor:	adj|yucky .
+740	%gra:	1|0|ROOT 2|1|PUNCT
+741	*MOT:	no, he's not yucky .
+742	%mor:	co|no pro|he~v:cop|be&3S neg|not adj|yucky .
+743	%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+744	*MOT:	no .
+745	%mor:	co|no .
+746	%gra:	1|0|ROOT 2|1|PUNCT
+747	*MOT:	he's soft .
+748	%mor:	pro|he~v:cop|be&3S adj|soft .
+749	%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+750	*MOT:	you want to pet ?
+751	%mor:	pro|you v|want inf|to v|pet ?
+752	%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+753	*MOT:	you say hamster ?
+754	%mor:	pro|you v|say n|hamster ?
+755	%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+756	*MOT:	that's a good girl .
+757	%mor:	pro:dem|that~v:cop|be&3S det|a adj|good n|girl .
+758	%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+759	*MOT:	what it that ?
+760	%mor:	pro:wh|what pro|it pro:dem|that ?
+761	%gra:	1|3|OBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+762	*MOT:	what is that ?
+763	%mor:	pro:wh|what v:cop|be&3S pro:dem|that ?
+764	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+765	*MOT:	what is that ?
+766	%mor:	pro:wh|what v:cop|be&3S pro:dem|that ?
+767	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+768	*MOT:	there you go, see ?
+769	%mor:	adv:loc|there pro|you v|go v|see ?
+770	%gra:	1|3|JCT 2|3|SUBJ 3|4|SRL 4|0|ROOT 5|4|PUNCT
+771	*MOT:	what is that ?
+772	%mor:	pro:wh|what v:cop|be&3S pro:dem|that ?
+773	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+774	*CHI:	cat .
+775	%mor:	n|cat .
+776	%gra:	1|0|ROOT 2|1|PUNCT
+777	*MOT:	what is that ?
+778	%mor:	pro:wh|what v:cop|be&3S pro:dem|that ?
+779	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+780	*MOT:	is that a hamster ?
+781	%mor:	v:cop|be&3S pro:dem|that det|a n|hamster ?
+782	%gra:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+783	*MOT:	can you say hamster ?
+784	%mor:	aux|can pro|you v|say n|hamster ?
+785	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+786	*MOT:	say hamster ?
+787	%mor:	v|say n|hamster ?
+788	%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+789	*CHI:	there .
+790	%mor:	adv:loc|there .
+791	%gra:	1|0|ROOT 2|1|PUNCT
+792	*MOT:	yeah, I know that is the hamster .
+793	%mor:	co|yeah pro|I v|know pro:dem|that aux|be&3S det|the n|hamster .
+794	%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|DET 7|3|OBJ 8|3|PUNCT
+795	*MOT:	can you say hamster ?
+796	%mor:	aux|can pro|you v|say n|hamster ?
+797	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+798	*CHI:	yeah .
+799	%mor:	co|yeah .
+800	%gra:	1|0|ROOT 2|1|PUNCT
+801	*MOT:	good .
+802	%mor:	adj|good .
+803	%gra:	1|0|ROOT 2|1|PUNCT
+804	*MOT:	nice .
+805	%mor:	adj|nice .
+806	%gra:	1|0|ROOT 2|1|PUNCT
+807	*MOT:	careful .
+808	%mor:	adj|careful .
+809	%gra:	1|0|ROOT 2|1|PUNCT
+810	*CHI:	he cry .
+811	%mor:	pro|he v|cry .
+812	%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+813	*MOT:	what ?
+814	%mor:	pro:wh|what ?
+815	%gra:	1|0|ROOT 2|1|PUNCT
+816	*CHI:	xxx .
+817	%mor:	unk|xxx .
+818	%gra:	1|0|ROOT 2|1|PUNCT
+819	*MOT:	cry .
+820	%mor:	v|cry .
+821	%gra:	1|0|ROOT 2|1|PUNCT
+822	*MOT:	he won't cry .
+823	%mor:	pro|he aux|will~neg|not v|cry .
+824	%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+825	*CHI:	baby .
+826	%mor:	n|baby .
+827	%gra:	1|0|ROOT 2|1|PUNCT
+828	*MOT:	baby, yeah .
+829	%mor:	n|baby co|yeah .
+830	%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+831	*CHI:	girl .
+832	%mor:	n|girl .
+833	%gra:	1|0|ROOT 2|1|PUNCT
+834	*MOT:	no, I think it's a boy .
+835	%mor:	co|no pro|I v|think pro|it~v:cop|be&3S det|a n|boy .
+836	%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|PRED 8|3|PUNCT
+837	*CHI:	boy .
+838	%mor:	n|boy .
+839	%gra:	1|0|ROOT 2|1|PUNCT
+840	*MOT:	boy .
+841	%mor:	n|boy .
+842	%gra:	1|0|ROOT 2|1|PUNCT
+843	*MOT:	is that a hamster ?
+844	%mor:	v:cop|be&3S pro:dem|that det|a n|hamster ?
+845	%gra:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|1|PUNCT
+846	*CHI:	baby .
+847	%mor:	n|baby .
+848	%gra:	1|0|ROOT 2|1|PUNCT
+849	*MOT:	baby what ?
+850	%mor:	n|baby pro:wh|what ?
+851	%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+852	*CHI:	baby .
+853	%mor:	n|baby .
+854	%gra:	1|0|ROOT 2|1|PUNCT
+855	*MOT:	baby what ?
+856	%mor:	n|baby pro:wh|what ?
+857	%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+858	*CHI:	touch that .
+859	%mor:	v|touch pro:dem|that .
+860	%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+861	*MOT:	touch careful .
+862	%mor:	n|touch co|careful .
+863	%gra:	1|0|ROOT 2|1|COM 3|1|PUNCT
+864	*MOT:	be gentle .
+865	%mor:	v:cop|be adj|gentle .
+866	%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+867	*MOT:	that's it .
+868	%mor:	pro:dem|that~v:cop|be&3S pro|it .
+869	%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+870	*MOT:	oh, you're a big girl .
+871	%mor:	co|oh pro|you~v:cop|be&PRES det|a adj|big n|girl .
+872	%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+873	*MOT:	is Gerry a big girl ?
+874	%mor:	aux|be&3S n:prop|Gerry det|a adj|big n|girl ?
+875	%gra:	1|0|ROOT 2|5|VOC 3|5|DET 4|5|MOD 5|1|SUBJ 6|1|PUNCT
+876	%act:	Gerry coughs .
+877	*MOT:	what are you drinking there ?
+878	%mor:	pro:wh|what aux|be&PRES pro|you part|drink-PROG adv:loc|there ?
+879	%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+880	*MOT:	what's this ?
+881	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+882	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+883	*CHI:	baba@c .
+884	%mor:	chi|baba .
+885	%gra:	1|0|ROOT 2|1|PUNCT
+886	*MOT:	what is it ?
+887	%mor:	pro:wh|what v:cop|be&3S pro|it ?
+888	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+889	*CHI:	baba@c .
+890	%mor:	chi|baba .
+891	%gra:	1|0|ROOT 2|1|PUNCT
+892	*MOT:	what's in your baba@c ?
+893	%mor:	pro:wh|what~v:cop|be&3S prep|in pro:poss:det|your chi|baba ?
+894	%gra:	1|2|PRED 2|0|ROOT 3|2|PRED 4|5|MOD 5|3|POBJ 6|2|PUNCT
+895	*MOT:	what's in your baba@c ?
+896	%mor:	pro:wh|what~v:cop|be&3S prep|in pro:poss:det|your chi|baba ?
+897	%gra:	1|2|PRED 2|0|ROOT 3|2|PRED 4|5|MOD 5|3|POBJ 6|2|PUNCT
+898	*MOT:	what is that ?
+899	%mor:	pro:wh|what v:cop|be&3S pro:dem|that ?
+900	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+901	*MOT:	Gerry, what's in your baba@c ?
+902	%mor:	n:prop|Gerry pro:wh|what~v:cop|be&3S prep|in pro:poss:det|your chi|baba
+903		?
+904	%gra:	1|3|VOC 2|3|PRED 3|0|ROOT 4|3|PRED 5|6|MOD 6|4|POBJ 7|3|PUNCT
+905	*CHI:	he sleepy .
+906	%mor:	pro|he adj|sleepy .
+907	%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+908	*MOT:	he's sleepy, yeah .
+909	%mor:	pro|he~v:cop|be&3S adj|sleepy co|yeah .
+910	%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|COM 5|2|PUNCT
+911	*MOT:	he's going to go sleepy .
+912	%mor:	pro|he~aux|be&3S part|go-PROG inf|to v|go adj|sleepy .
+913	%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+914	@Tape Location:	166-204
+915	*MOT:	what is mommy doing ?
+916	%mor:	pro:wh|what aux|be&3S n|mommy part|do-PROG ?
+917	%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+918	*MOT:	what is this ?
+919	%mor:	pro:wh|what v:cop|be&3S pro:dem|this ?
+920	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+921	*MOT:	what is this ?
+922	%mor:	pro:wh|what v:cop|be&3S pro:dem|this ?
+923	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+924	*MOT:	does Gerry know ?
+925	%mor:	aux|do&3S n:prop|Gerry v|know ?
+926	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+927	*MOT:	can you tell me what this is ?
+928	%mor:	aux|can pro|you v|tell pro|me pro:wh|what pro:dem|this v:cop|be&3S ?
+929	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|PRED 6|7|SUBJ 7|3|COMP 8|3|PUNCT
+930	*CHI:	mommy .
+931	%mor:	n|mommy .
+932	%gra:	1|0|ROOT 2|1|PUNCT
+933	*MOT:	what ?
+934	%mor:	pro:wh|what ?
+935	%gra:	1|0|ROOT 2|1|PUNCT
+936	*MOT:	what's this ?
+937	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this ?
+938	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+939	*MOT:	what's that .
+940	%mor:	pro:wh|what~v:cop|be&3S pro:dem|that .
+941	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+942	*MOT:	what is that ?
+943	%mor:	pro:wh|what v:cop|be&3S pro:dem|that ?
+944	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+945	*MOT:	you're not going to talk with us this morning .
+946	%mor:	pro|you~aux|be&PRES neg|not part|go-PROG inf|to v|talk prep|with pro|us
+947		det|this n|morning .
+948	%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ
+949		9|10|DET 10|8|JCT 11|4|PUNCT
+950	*MOT:	are you tired ?
+951	%mor:	aux|be&PRES pro|you part|tire-PERF ?
+952	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+953	*MOT:	you know what ?
+954	%mor:	pro|you v|know pro:wh|what ?
+955	%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+956	*MOT:	Winnie_the_Pooh (i)s on .
+957	%mor:	n:prop|Winnie_the_Pooh v:cop|be&3S prep|on .
+958	%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+959	*MOT:	shall we turn on Winnie_the_Pooh ?
+960	%mor:	aux|shall pro|we v|turn prep|on n:prop|Winnie_the_Pooh ?
+961	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+962	*CHI:	uhhuh .
+963	%mor:	co|uhhuh .
+964	%gra:	1|0|ROOT 2|1|PUNCT
+965	*MOT:	do you like Winnie_the_Pooh ?
+966	%mor:	aux|do pro|you v|like n:prop|Winnie_the_Pooh ?
+967	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+968	*CHI:	poo .
+969	%mor:	n|poo .
+970	%gra:	1|0|ROOT 2|1|PUNCT
+971	*MOT:	winnie .
+972	%mor:	n|win-DIM .
+973	%gra:	1|0|ROOT 2|1|PUNCT
+974	*CHI:	poo .
+975	%mor:	n|poo .
+976	%gra:	1|0|ROOT 2|1|PUNCT
+977	*MOT:	poo .
+978	%mor:	n|poo .
+979	%gra:	1|0|ROOT 2|1|PUNCT
+980	*MOT:	can you say Winnie_the_Pooh ?
+981	%mor:	aux|can pro|you v|say n:prop|Winnie_the_Pooh ?
+982	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+983	*CHI:	winnie .
+984	%mor:	n|win-DIM .
+985	%gra:	1|0|ROOT 2|1|PUNCT
+986	*MOT:	can you sing it ?
+987	%mor:	aux|can pro|you v|sing pro|it ?
+988	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+989	*CHI:	sing .
+990	%mor:	v|sing .
+991	%gra:	1|0|ROOT 2|1|PUNCT
+992	*MOT:	Winnie_the_Pooh .
+993	%mor:	n:prop|Winnie_the_Pooh .
+994	%gra:	1|0|ROOT 2|1|PUNCT
+995	*MOT:	what's this that mommy's has ?
+996	%mor:	pro:wh|what~v:cop|be&3S pro:dem|this det|that n|mommy~v:cop|be&3S v|have&3S
+997		?
+998	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|SUBJ 8|2|PUNCT
+999	*MOT:	what is this ?
+1000	%mor:	pro:wh|what v:cop|be&3S pro:dem|this ?
+1001	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+1002	*MOT:	does Gerry know ?
+1003	%mor:	aux|do&3S n:prop|Gerry v|know ?
+1004	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+1005	*MOT:	do you know what this is ?
+1006	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+1007	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+1008	*CHI:	book, book .
+1009	%mor:	n|book n|book .
+1010	%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+1011	%act:	Gerry cries .
+1012	*MOT:	what's the matter ?
+1013	%mor:	pro:wh|what~v:cop|be&3S det|the n|matter ?
+1014	%gra:	1|2|PRED 2|0|ROOT 3|4|DET 4|2|SUBJ 5|2|PUNCT
+1015	*CHI:	poo .
+1016	%mor:	n|poo .
+1017	%gra:	1|0|ROOT 2|1|PUNCT
+1018	*MOT:	we'll see Winnie_the_Pooh in a minute .
+1019	%mor:	pro|we~aux|will v|see n:prop|Winnie_the_Pooh adv:loc|in det|a adj|minute
+1020		.
+1021	%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+1022	*MOT:	xxx .
+1023	%mor:	unk|xxx .
+1024	%gra:	1|0|ROOT 2|1|PUNCT
+1025	*MOT:	who's this ?
+1026	%mor:	pro:wh|who~v:cop|be&3S pro:dem|this ?
+1027	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+1028	*MOT:	who's that ?
+1029	%mor:	pro:wh|who~v:cop|be&3S pro:dem|that ?
+1030	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+1031	*CHI:	bunny .
+1032	%mor:	n|bunny .
+1033	%gra:	1|0|ROOT 2|1|PUNCT
+1034	*MOT:	that's the bunny .
+1035	%mor:	pro:dem|that~v:cop|be&3S det|the n|bunny .
+1036	%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+1037	*MOT:	who's this ?
+1038	%mor:	pro:wh|who~v:cop|be&3S pro:dem|this ?
+1039	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+1040	*MOT:	is that Winnie_the_Pooh ?
+1041	%mor:	v:cop|be&3S pro:dem|that n:prop|Winnie_the_Pooh ?
+1042	%gra:	1|0|ROOT 2|1|SUBJ 3|1|PRED 4|1|PUNCT
+1043	*MOT:	Gerry, what's this ?
+1044	%mor:	n:prop|Gerry pro:wh|what~v:cop|be&3S pro:dem|this ?
+1045	%gra:	1|3|VOC 2|3|PRED 3|0|ROOT 4|3|SUBJ 5|3|PUNCT
+1046	*MOT:	what does mommy have ?
+1047	%mor:	pro:wh|what aux|do&3S n|mommy v|have ?
+1048	%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+1049	*MOT:	do you know what this is ?
+1050	%mor:	aux|do pro|you v|know pro:wh|what pro:dem|this v:cop|be&3S ?
+1051	%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|PRED 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+1052	*CHI:	the thing .
+1053	%mor:	det|the n|thing .
+1054	%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+1055	*MOT:	what's that ?
+1056	%mor:	pro:wh|what~v:cop|be&3S pro:dem|that ?
+1057	%gra:	1|2|PRED 2|0|ROOT 3|2|SUBJ 4|2|PUNCT
+1058	*MOT:	is that your hamster ?
+1059	%mor:	v:cop|be&3S pro:dem|that pro:poss:det|your n|hamster ?
+1060	%gra:	1|0|ROOT 2|1|SUBJ 3|4|MOD 4|1|PRED 5|1|PUNCT

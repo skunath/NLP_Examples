@@ -1,0 +1,282 @@
+0	@Loc:	Romance/French/Paris/madeleine/MADELEINE-02-1_00_05.cha
+1	@Begin
+2	@Languages:	fra
+3	@Participants:	CHI Madeleine Target_Child, MOT Mother, OBS Martine Observer, MAR Marie Sister, VIS Visitor, TOY Toy
+4	@ID:	fra|Paris-Corpus_Madeleine|CHI|1;00.05|female|||Target_Child||
+5	@ID:	fra|Paris-Corpus_Madeleine|MOT|||||Mother||
+6	@ID:	fra|Paris-Corpus_Madeleine|OBS|||||Observer||
+7	@ID:	fra|Paris-Corpus_Madeleine|MAR|||||Sister||
+8	@ID:	fra|Paris-Corpus_Madeleine|VIS|||||Visitor||
+9	@ID:	fra|Paris-Corpus_Madeleine|TOY|||||Toy||
+10	@Birth of CHI:	14-APR-2005
+11	@Media:	02, video
+12	@Date:	19-APR-2006
+13	@Time Duration:	11:00-12:00
+14	@Location:	Madeleine's home
+15	@Comment:	Coder - Christelle DODANE, Teodora HUTANU, Françoise BOURDOUX (November 2008, revised february 2009, revised June 2009)
+16	@Situation:	CHI MOT et MAR sont dans la rue CHI est assise par terre
+17	@G:	arrivée à la maison
+18	*MOT:	c'est pas très propre ça . ▶
+19	%act:	MOT penchée regarde CHI.
+20	*MOT:	allez debout . ▶
+21	%act:	MOT attrape CHI par les deux mains pour la relever.
+22	*OBS:	bonjour Madeleine ! ▶
+23	*CHI:	0 .
+24	%act:	CHI regarde OBS.
+25	*MAR:	ah [=! sourit] .
+26	%act:	MAR se tourne vers OBS.
+27	*MOT:	tu dis bonjour à Martine ? ▶
+28	%act:	MOT aide CHI à marcher.
+29	*CHI:	0 [=! sourit] .
+30	%act:	CHI regarde OBS et sourit.
+31	*MOT:	hein ? ▶
+32	*CHI:	0 .
+33	%act:	CHI se dirige vers les escaliers ne regarde plus OBS.
+34	*MOT:	tu dis bonjour à Martine ? ▶
+35	%act:	MOT tient CHI par les deux mains pour la faire marcher .
+36	%sit:	CHI regarde OBS et sourit.
+37	*MOT:	dis bonjour ! ▶
+38	*MOT:	bonjour [/] bonjour . ▶
+39	%act:	MOT agite la main de CHI en signe de bonjour.
+40	*CHI:	yyy [=! sourit] .
+41	%pho:	eː
+42	*MOT:	hein oh ! ▶
+43	%act:	tient CHI par une main et la regarde.
+44	*MOT:	où est il ton chat ? ▶
+45	*MOT:	<on est> [///] on cherchait un +//. ▶
+46	*MOT:	berk@i . ▶
+47	%act:	MOT soulève CHI
+48	%exp:	CHI jouait dans le caniveau
+49	*OBS:	<tiens Madeleine regarde j'ai quelque+chose> [>] pour toi . ▶
+50	*MOT:	<on cherchait un chat> [<] .
+51	%act:	MOT prend CHI dans ses bras.
+52	*OBS:	+, pour ton anniversaire . ▶
+53	*CHI:	yyy .
+54	%pho:	bɛ
+55	*MOT:	ah bah <dis+donc> [<] ! ▶
+56	%act:	MOT regarde le cadeau.
+57	*OBS:	<oh> [>] .
+58	*OBS:	qu' est+ce+que c'est que ça ? ▶
+59	*MOT:	+< 0 .
+60	%act:	MOT prend le cadeau
+61	*CHI:	+< 0 .
+62	%act:	CHI tient le cadeau par un coin.
+63	*OBS:	des cadeaux ? ▶
+64	*CHI:	+< 0 .
+65	%act:	CHI regarde OBS.
+66	*MOT:	ouh@i c'est pour qui ça ? ▶
+67	*CHI:	+< 0 .
+68	%act:	CHI regarde le cadeau.
+69	*MOT:	<ouh@i bah dis+donc> [=! sourit] ! ▶
+70	%act:	MOT soutient le cadeau et sourit.
+71	*CHI:	+< 0 .
+72	%act:	CHI touche le papier cadeau.
+73	*MOT:	oh t(u) as vu il y+a un joli pli . ▶
+74	%act:	MOT touche le pli du papier cadeau.
+75	%xpnt:	show le pli sur le paquet de l'index
+76	*OBS:	xxx . ▶
+77	*CHI:	+< yyy .
+78	%pho:	vœga
+79	*OBS:	qu' est+ce+que c'est que ça ? ▶
+80	*CHI:	+< 0 [=! sourit] .
+81	*MOT:	c'est quoi ? ▶
+82	%act:	MOT regarde le cadeau.
+83	*MOT:	tu ouvres ? ▶
+84	*MOT:	ouvre . ▶
+85	*MOT:	tu mets ton petit doigt là . ▶
+86	%act:	MOT fait un trou dans le papier cadeau pour que CHI ouvre le cadeau.
+87	*MOT:	tu ouvres Madeleine ? ▶
+88	*MOT:	elle sait pas ouvrir .
+89	@G:	coupure CHI est debout dans la rue près de MOT avec le cadeau dans la main.
+90	*CHI:	0 . ▶
+91	%act:	CHI regarde MAR.
+92	%xpnt:	show MAR de l'index bras tendu
+93	*MOT:	+< xx hein ?
+94	%act:	regarde hors champ.
+95	*MAR:	0 [=! rit] .
+96	%sit:	MAR est devant CHI.
+97	*VIS:	déjà ? ▶
+98	%exp:	VIS est un passant dans la rue probablement un voisin
+99	*VIS:	<xxx> [>] ? ▶
+100	*CHI:	+< 0 .
+101	%act:	CHI regarde VIS.
+102	*MAR:	<bonjour> [<] .
+103	*VIS:	bonjour . ▶
+104	*VIS:	ça va Elisa ? ▶
+105	%act:	CHI regarde VIS.
+106	*MOT:	0 .
+107	%act:	MOT caresse l'oreille de CHI.
+108	*MAR:	<oui> [>] . ▶
+109	*MOT:	<bonjour> [<] François .
+110	*CHI:	0 . ▶
+111	%act:	CHI perd l'équilibre
+112	*MOT:	oup@i la !
+113	%act:	MOT rattrape CHI.
+114	*MOT:	hop qu' est+ce+qu' on fait Madeleine on va l'ouvrir à l'intérieur ? ▶
+115	%act:	MOT prend CHI dans ses bras.
+116	*CHI:	+< 0 .
+117	%act:	CHI regarde le cadeau.
+118	*OBS:	oui .
+119	*CHI:	yyy . ▶
+120	%pho:	gatœ̃
+121	%act:	CHI regarde et touche le cadeau.
+122	*MOT:	<hein qu' est+ce+qu' on fait> [<] ? ▶
+123	%sit:	CHI tient le cadeau par un coin et le porte à sa bouche.
+124	%act:	MOT tient le cadeau et regarde CHI.
+125	*OBS:	< 0 [=! rit] t(u) as vu comme elle parle> [>] ?
+126	*MOT:	on le mange un+peu . ▶
+127	%act:	MOT regarde vers OBS.
+128	*OBS:	on le mange un+peu ça se suce avant . ▶
+129	*MOT:	<hein> [>] ? ▶
+130	*CHI:	+< 0 .
+131	%act:	CHI touche le cadeau.
+132	*OBS:	+, <le paquet cadeau> [<] .
+133	*MOT:	forcément . ▶
+134	*CHI:	yyy . ▶
+135	%pho:	kaka
+136	%act:	CHI pointe et regarde un objet indéterminé peut être la maison, puis regarde OBS
+137	%xpnt:	show maison de l'index
+138	*MAR:	ça veut dire <quoi> [<] ? ▶
+139	*CHI:	+< 0 .
+140	%xpnt:	show un objet indéterminé de l'index
+141	%act:	CHI tourne son regard vers la caméra.
+142	*MOT:	<hein> [>] ?
+143	*MOT:	<qu' est+ce+que ça veut dire hein> [=! sourit] ? ▶
+144	*MOT:	on sait pas . ▶
+145	%act:	MOT regarde CHI.
+146	*CHI:	0 .
+147	%act:	CHI rattrape le cadeau et le mène à sa bouche.
+148	*OBS:	qu' est+ce+qui est écrit là ? ▶
+149	*MOT:	0 [=! rit] . ▶
+150	*CHI:	+< 0 .
+151	%act:	CHI est attentive à son cadeau et après regarde OBS.
+152	*OBS:	+< 0 [=! rit] là des tulipes .
+153	*MOT:	0 [=! rit] . ▶
+154	%com:	problèmes vidéo
+155	@G:	coupure CHI est dans l'escalier extérieur
+156	*OBS:	tu montes les escaliers . ▶
+157	*CHI:	0 .
+158	%act:	CHI sur les escaliers regarde OBS.
+159	*OBS:	<non> [>] ? ▶
+160	*MOT:	<ah elle sait> [<] qu' elle a pas le droit donc quand hein +...
+161	*CHI:	0 .
+162	%act:	CHI regarde MOT puis recule un peu.
+163	*CHI:	yyy . ▶
+164	%pho:	dœjøkɛka
+165	%act:	CHI monte les escaliers
+166	*MOT:	qu' est+ce+que tu fais Madeleine tu montes ? ▶
+167	*CHI:	0 .
+168	%act:	CHI remet la main sur la marche devant elle pour monter.
+169	*MOT:	allez aujourd'hui tu peux . ▶
+170	*CHI:	+< 0 .
+171	%act:	CHI monte les escaliers à quatre pattes.
+172	*MOT:	(.) et voilà ! ▶
+173	%act:	MOT suit CHI avec le cadeau dans les mains.
+174	*MOT:	et voilà tu peux avancer . ▶
+175	*MOT:	et par+ailleurs elle aime pas du tout quand elle peut+être dehors +... ▶
+176	%act:	MOT la pousse légèrement avec la main sur les fesses.
+177	*CHI:	+< 0 .
+178	%act:	CHI recule une marche et regarde OBS.
+179	*MOT:	elle aime pas être à <l'intérieur> [>] . ▶
+180	%act:	MOT attrape la main de CHI.
+181	%com:	CHI veut descendre.
+182	*OBS:	<là> [<] il va commencer à faire beau hein ?
+183	*MOT:	tout+à+l'heure j'ai voulu la rentrer <elle a pas> [///] elle a piqué une colère . ▶
+184	%act:	MOT soulève CHI et la descend.
+185	*CHI:	yyy .
+186	%pho:	m
+187	*MOT:	tiens t(u) as qu' à ouvrir ton paquet ici . ▶
+188	%act:	MOT met CHI sur la première marche de l'escalier.
+189	*CHI:	0 .
+190	%act:	CHI attrape le cadeau.
+191	*CHI:	yyy . ▶
+192	%pho:	taka
+193	%act:	CHI est en train de manipuler le cadeau offert par OBS
+194	*MOT:	regarde <je te l'> [/] je te l'ouvre un+peu . ▶
+195	%act:	MOT défait un coin du papier.
+196	*CHI:	yyy . ▶
+197	%pho:	dɛka
+198	%act:	CHI approche la main du paquet
+199	*MOT:	regarde . ▶
+200	%act:	MOT défait un peu le cadeau et montre à CHI.
+201	*CHI:	0 .
+202	%act:	CHI regarde le cadeau et le touche.
+203	*MOT:	ah . ▶
+204	%act:	MOT manipule le cadeau avec CHI.
+205	*MOT:	regarde Madeleine [/] Madeleine [/] Madeleine ! ▶
+206	*CHI:	+< 0 .
+207	%act:	CHI se tourne pour monter les escaliers.
+208	*MOT:	Madeleine ? ▶
+209	*OBS:	on remonte . ▶
+210	*CHI:	0 .
+211	%act:	CHI remonte une marche s'arrête et tourne la tête vers MOT qui est restée en bas.
+212	*MOT:	héh oui . ▶
+213	*OBS:	0 [=! rit] . ▶
+214	*MOT:	+< 0 [=! rit] .
+215	%act:	MOT ouvre le cadeau à moitié et montre à CHI.
+216	*CHI:	0 .
+217	%act:	CHI regarde un instant et se tourne pour partir.
+218	*OBS:	0 [=! rit] . ▶
+219	*CHI:	+< 0 .
+220	%act:	CHI regarde OBS redescend et tend la main vers le cadeau.
+221	*MOT:	+< 0 [=! rit] allez on se rassied .
+222	*CHI:	yyy . ▶
+223	%pho:	gøgega
+224	%act:	CHI essaie toujours de déballer le livre avec MOT
+225	*OBS:	+< c'est drôle .
+226	*MOT:	c'est quoi ça ? ▶
+227	*MOT:	oh un livre avec de trous . ▶
+228	%act:	MOT ouvre le cadeau un peu plus.
+229	*CHI:	0 .
+230	%act:	CHI veut attraper le livre.
+231	*OBS:	0 [=! rit] . ▶
+232	*MOT:	+, +< comme tu les aimes 0 [=! rit] .
+233	*CHI:	0 .
+234	%act:	CHI laisse tomber le livre et tourne pour monter.
+235	*MOT:	c'est quelqu'un qui te connaît bien (.) qui a choisi ça . ▶
+236	*CHI:	+< 0 .
+237	%act:	CHI monte les escaliers.
+238	*MOT:	Madeleine tu vas où là ? ▶
+239	*OBS:	elle rentre . ▶
+240	%sit:	CHI est presque arrivée sur la dernière marche.
+241	*OBS:	0 [=! rit] . ▶
+242	*MOT:	+< tu rentres ?
+243	*CHI:	yyy . ▶
+244	%pho:	kaga
+245	%act:	CHI est en train de monter les escaliers
+246	*MOT:	allez <on rentre> [>] . ▶
+247	%act:	MOT suit CHI.
+248	*CHI:	+< 0 .
+249	%act:	CHI rampe dans la maison.
+250	*OBS:	<et voilà> [<] .
+251	*MOT:	on rentre ? ▶
+252	*CHI:	yyy .
+253	%pho:	gɛda
+254	%act:	CHI est entré dans la maison, suivie de MOT , elle s'assied et vocalise
+255	*MOT:	regarde . ▶
+256	%act:	MOT montre le cadeau à CHI.
+257	*CHI:	0 .
+258	%act:	CHI veut redescendre.
+259	*OBS:	et voilà <t(u) es arrivée> [>] . ▶
+260	*MOT:	<alors à l'envers ça va être> [<] un+peu difficile hein ?
+261	*CHI:	+< 0 [=! sourit] .
+262	%act:	CHI regarde OBS .
+263	*OBS:	oh le beau sourire ! ▶
+264	*CHI:	yyy .
+265	%pho:	eka
+266	%act:	CHI est assise dans l'entrée, elle vocalise en regardant OBS
+267	*CHI:	yyy . ▶
+268	%pho:	memː
+269	%act:	CHI regarde OBS en vocalisant
+270	*MOT:	tiens viens !
+271	*MOT:	viens Madeleine ! ▶
+272	@G:	coupure CHI est debout derrière une table dans le salon et regarde OBS.
+273	*OBS:	est+ce+que tu sais que tu es belle ? ▶
+274	*MOT:	0 [=! rit] . ▶
+275	*CHI:	+< 0 [=! sourit] .
+276	%act:	CHI regarde OBS puis MOT .
+277	*CHI:	0 . ▶
+278	%act:	CHI est debout appuyée sur la table elle lèche la table.
+279	*MOT:	ah bah Madeleine ?
+280	*MOT:	Madeleine <0 [=! rit] > [>] . ▶
+281	*CHI:	0 .
