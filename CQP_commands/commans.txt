@@ -1,0 +1,11 @@
+First Select a corpus, UKWAC1 in this instance:
+
+[no corpus]> UKWAC1;
+
+Suppose for a moment you wish to get a multi-word window and save it:
+
+UKWAC1> t = [][]"appropriate"[][];
+
+Then to produce a frequency distribution one could type:
+
+UKWAC1> count by word;
